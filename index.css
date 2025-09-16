@@ -10,3 +10,18 @@
  width: 170px;
  border-radius: 20px;
 }
+body{
+    background-color: aqua;
+}
+button{background-color:blue;
+color: azure;
+height: 40PX;
+border: 20px;
+border-radius: 20PX;
+}
+button:hover {
+    background-color: rgb(24, 76, 122);
+}
+button:active{
+    background-color: blueviolet;
+}
